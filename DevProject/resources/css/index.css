@@ -1,0 +1,61 @@
+.navbar {
+    background-color: white;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+.navbar li {
+    display: inline-block;
+    padding: 3.5px 20px;
+}
+
+.navbar a {
+    text-decoration:none ;
+    color: black;
+}
+
+.banner {
+    background-color: #246ddc;
+    color: white;
+    margin-top: 50px;
+    text-align: center;
+    padding: 75px;
+}
+
+#kirito-asuna {
+    height: 100px;
+    width: 100px;
+    filter: drop-shadow(1px 1px 1px black);
+}
+
+.sao-section {
+    padding: 10px;
+}
+
+#sao {
+    color: #246ddc;
+    font-size: 75px;
+}
+#greets ul {
+    list-style-type:none;
+}
+
+.avatar {
+    background-image: url('../css/images/291492.jpg');
+    background-size: cover;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.bold {
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 700;
+}
+
+a.blue {
+    color: #246ddc;
+}
